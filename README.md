@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="universal_file_server_icon.svg" alt="Universal File Server Icon" width="120" height="120" />
+  <img src="/images/universal_file_server_icon.svg" alt="Universal File Server Icon" width="120" height="120" />
 
   # Universal File Server
 
@@ -18,8 +18,8 @@
 
   <br />
 
-  <img src="Screenshot_1.png" alt="Universal File Server Screenshot 1" width="340" />
-  <img src="Screenshot_2.png" alt="Universal File Server Screenshot 2" width="680" />
+  <img src="Screenshot_1.png" alt="/images/Universal File Server Screenshot 1" width="340" />
+  <img src="Screenshot_2.png" alt="/images/Universal File Server Screenshot 2" width="680" />
 
 </div>
 
