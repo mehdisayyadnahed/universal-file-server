@@ -18,8 +18,8 @@
 
   <br />
 
-  <img src="Screenshot_1.png" alt="/images/Universal File Server Screenshot 1" width="340" />
-  <img src="Screenshot_2.png" alt="/images/Universal File Server Screenshot 2" width="680" />
+  <img src="/images/Screenshot_1.png" alt="Universal File Server Screenshot 1" width="340" />
+  <img src="/images/Screenshot_2.png" alt="Universal File Server Screenshot 2" width="680" />
 
 </div>
 
