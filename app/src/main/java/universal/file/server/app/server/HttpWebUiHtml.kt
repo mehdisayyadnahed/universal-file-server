@@ -3101,8 +3101,8 @@ object HttpWebUiHtml {
     <div class="modal-header">
       <span id="previewTitle" style="word-break:break-all;">Preview</span>
       <div style="display:flex;gap:8px;align-items:center;">
-        <button id="previewPopOutBtn" class="btn btn-sm" onclick="popOutPreview()" title="Open in persistent floating window (stays visible while browsing folders)">⧉ Pop Out</button>
         <a id="previewDownloadBtn" class="btn btn-sm btn-primary" href="#" download>⬇ Download</a>
+        <button id="previewPopOutBtn" class="btn btn-sm" onclick="popOutPreview()" title="Open in persistent floating window (stays visible while browsing folders)">⧉ Pop Out</button>
         <button class="btn btn-sm" onclick="closePreview()">✕ Close</button>
       </div>
     </div>
@@ -3119,7 +3119,7 @@ object HttpWebUiHtml {
     </div>
     <div class="preview-floating-actions">
       <a id="previewFloatingDownloadBtn" class="btn btn-sm btn-primary" href="#" download style="padding:4px 9px;font-size:11px;" title="Download File">⬇</a>
-      <button class="btn btn-sm" onclick="popInPreview()" style="padding:4px 9px;font-size:11px;" title="Dock back into centered modal">🗗 Dock</button>
+      <button class="btn btn-sm" onclick="popInPreview()" style="padding:4px 9px;font-size:11px;" title="Dock back into centered modal">🗗</button>
       <button class="btn btn-sm" onclick="closeFloatingPreview()" style="padding:4px 9px;font-size:11px;" title="Close Floating Window">✕</button>
     </div>
   </div>
